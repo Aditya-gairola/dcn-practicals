@@ -96,9 +96,4 @@ Observations in **Simulation Mode**:
 
 The Star topology was successfully implemented in Packet Tracer using both a hub and a switch. By observing the two simulations side-by-side, we see the clear advantage of a switch's targeted forwarding over a hub's blind flooding.
 
-## Screenshots to include
-- `01-star-hub-topology.png`
-- `02-hub-simulation-flooding.png`
-- `03-star-switch-topology.png`
-- `04-switch-simulation-targeted.png`
-- `05-ping-success.png`
+ 
