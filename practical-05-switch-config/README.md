@@ -160,9 +160,4 @@ end
 
 An initial configuration of a Cisco 2960 switch was successfully performed. The switch now has a hostname, console and VTY passwords, an enable secret, a banner, and a management IP, and the configuration has been saved to NVRAM. This baseline configuration is a prerequisite for deploying the switch in any production network.
 
-## Screenshots to include
-- `01-topology.png` — switch + PC connected by console cable
-- `02-terminal-connect.png` — the PC's Terminal window
-- `03-hostname-set.png` — prompt changed to `S1`
-- `04-running-config.png` — output of `show running-config`
-- `05-telnet-test.png` — successful Telnet login from a client PC
+ 
