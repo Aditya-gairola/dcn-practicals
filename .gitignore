@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Packet Tracer backups
+*.pkt.bak
+*.pka.bak
+*~
+*.tmp
+
+# Logs
+*.log
