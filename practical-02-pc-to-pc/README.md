@@ -77,9 +77,4 @@ Approximate round trip times in milli-seconds:
 ## Conclusion
 
 PC-to-PC communication was successfully established in Cisco Packet Tracer using a crossover cable and same-subnet IP addressing. Bidirectional `ping` verified end-to-end connectivity.
-
-## Screenshots to include
-- `01-topology.png` — the two PCs connected by a crossover cable
-- `02-pc0-ip-config.png` — IP Configuration window of PC0
-- `03-pc1-ip-config.png` — IP Configuration window of PC1
-- `04-ping-success.png` — successful ping from PC0 to PC1
+ 
