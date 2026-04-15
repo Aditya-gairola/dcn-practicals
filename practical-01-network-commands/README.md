@@ -161,12 +161,6 @@ Tests TCP-level connectivity to a specific port.
 telnet www.google.com 80
 ```
 
-## Procedure
-
-1. Open **Command Prompt** (Windows: `Win + R` → `cmd`) or **Terminal** (Linux).
-2. Execute each command listed above one by one.
-3. Observe the output; take a screenshot of each.
-4. Save the screenshots in the `screenshots/` folder.
 
 ## Observations
 
@@ -186,12 +180,4 @@ telnet www.google.com 80
 
 The basic network commands were studied and successfully executed. These commands form the foundation of network diagnostics — `ipconfig` for local configuration, `ping` and `tracert` for reachability, `nslookup` for name resolution, `arp` for L2 mapping, and `netstat` for transport-level visibility.
 
-## Screenshots
-
-Save output screenshots in `screenshots/` with descriptive names:
-- `01-ipconfig.png`
-- `02-ping-google.png`
-- `03-tracert-google.png`
-- `04-nslookup.png`
-- `05-arp-a.png`
-- `06-netstat.png`
+ 
