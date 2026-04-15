@@ -1,6 +1,6 @@
-# Data Communication and Networks — Practicals
+# Data Communication and Networks 
 
-Practical file for the **Data Communication and Networks** lab. Each practical is a self-contained folder with its aim, theory, step-by-step procedure, commands/configuration, observations, and screenshots.
+ 
 
 ## Tools used
 
@@ -19,12 +19,7 @@ Practical file for the **Data Communication and Networks** lab. Each practical i
 | 4 | Create Bus, Ring, Tree, Hybrid, and Mesh topologies | [practical-04-topologies/](practical-04-topologies/) |
 | 5 | Perform an initial Switch configuration | [practical-05-switch-config/](practical-05-switch-config/) |
 
-## How to use this repository
-
-1. Open any practical folder.
-2. Read the `README.md` — it contains the full write-up.
-3. If the practical has a `.pkt` file, open it with Cisco Packet Tracer.
-4. Screenshots of the output are inside each practical's `screenshots/` folder.
+ 
 
 ## Folder structure
 
@@ -47,11 +42,4 @@ dcn-practicals/
 └── practical-05-switch-config/
     ├── README.md
     └── screenshots/
-```
-
-## Submitted by
-
-- **Name:** _Your Name_
-- **Roll No.:** _Your Roll Number_
-- **Class / Division:** _Your Class_
-- **Subject:** Data Communication and Networks
+ 
