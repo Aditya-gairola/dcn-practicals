@@ -160,10 +160,4 @@ All four pings should succeed in each topology.
 
 All five topologies were successfully implemented and tested in Cisco Packet Tracer. Each topology has distinct structural, cost, and fault-tolerance characteristics. Real-world enterprise networks almost always use **hybrid** topologies that combine the strengths of star (ease of management) and mesh (redundancy).
 
-## Screenshots to include
-- `01-bus-topology.png`
-- `02-ring-topology.png`
-- `03-tree-topology.png`
-- `04-hybrid-topology.png`
-- `05-mesh-topology.png`
-- `06-ping-results.png`
+ 
