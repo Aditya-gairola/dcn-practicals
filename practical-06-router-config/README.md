@@ -41,8 +41,8 @@ Every host in a given subnet must have its **default gateway** set to the router
 | PC1 | FastEthernet0 | 10.10.10.2 | 255.255.255.0 | 10.10.10.10 |
 | PC2 | FastEthernet0 | 20.20.20.1 | 255.255.255.0 | 20.20.20.10 |
 | PC3 | FastEthernet0 | 20.20.20.2 | 255.255.255.0 | 20.20.20.10 |
-| Router0 | GigabitEthernet0/0 | 10.10.10.10 | 255.255.255.0 | — |
-| Router0 | GigabitEthernet0/1 | 20.20.20.10 | 255.255.255.0 | — |
+| Router0 | GigabitEthernet0/0 | 20.20.20.0 | 255.255.255.0 | — |
+| Router0 | GigabitEthernet0/1 | 10.10.10.0 | 255.255.255.0 | — |
 
 ## Procedure
 
